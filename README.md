@@ -8,7 +8,7 @@ stomp이용한 간단한 채팅예제
 
     > pub/sub : 메시지를 보내는 주체와 받는 주체를 분리해 제공하는 메시징 방법
 
-![사진](https://docs.spring.io/spring-framework/docs/current/reference/html/images/message-flow-broker-relay.png)
+![사진](https://github.com/minjun7984/readme-image/blob/main/stomp.png)
 
 ## pub/sub 메시징 흐름
 1. 클라이언트에서 메시지를 보내면 @MessageMapping이 붙은 Controller가 받는다
